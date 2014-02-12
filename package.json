@@ -1,0 +1,27 @@
+{
+  "name": "boatswain",
+  "version": "0.0.0",
+  "description": "brain tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/noopkat/boatswain.git"
+  },
+  "keywords": [
+    "brain",
+    "tracking",
+    "mood",
+    "depression",
+    "anxiety",
+    "data"
+  ],
+  "author": "Suz Hinton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noopkat/boatswain/issues"
+  },
+  "homepage": "https://github.com/noopkat/boatswain"
+}
