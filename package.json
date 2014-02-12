@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/noopkat/boatswain/issues"
   },
-  "homepage": "https://github.com/noopkat/boatswain"
+  "homepage": "https://github.com/noopkat/boatswain",
+  "dependencies": {
+    "st": "~0.2.6",
+    "levelup": "~0.18.2",
+    "leveldown": "~0.10.2"
+  }
 }
