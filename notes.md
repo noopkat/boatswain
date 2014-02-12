@@ -13,12 +13,12 @@ Felton model:
 proposed barebones alternative model in lieu of Felton model:
 ```javascript
 {
-  day~0: {
-    date: '11-2-14',
-    score: '1',
-    tags: [0,1]
+  'day~0': {
+    'date': '11-2-14',
+    'score': '1',
+    'tags': [0,1]
   },
-  tag~0: 'depression',
-  tag~1: 'anxiety'
+  'tag~0': 'depression',
+  'tag~1': 'anxiety'
 }
 ```
