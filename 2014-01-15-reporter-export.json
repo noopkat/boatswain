@@ -1,0 +1,645 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 0.9,
+      "location" : {
+        "verticalAccuracy" : 24.84861759508401,
+        "timestamp" : 411486571.178242,
+        "longitude" : -73.99338388299014,
+        "latitude" : 40.73305145148687,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "University Pl",
+          "postalCode" : "10003",
+          "subAdministrativeArea" : "New York",
+          "subLocality" : "Greenwich Village",
+          "subThoroughfare" : "63",
+          "locality" : "New York",
+          "name" : "63 University Pl",
+          "country" : "United States",
+          "administrativeArea" : "NY"
+        },
+        "horizontalAccuracy" : 1646.732129134998,
+        "speed" : -1
+      },
+      "steps" : -1,
+      "day" : 411458400,
+      "audio" : {
+        "avg" : -29.67104,
+        "peak" : -18.50554
+      },
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 4,
+        "windDirection" : "ESE",
+        "tempF" : 42.3,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 8,
+        "feelslikeC" : 4,
+        "visibilityMi" : 0.2,
+        "feelslikeF" : 40,
+        "stationID" : "KNYNEWYO71",
+        "latitude" : 40.746399,
+        "windGustMPH" : 5,
+        "pressureIn" : 30.01,
+        "pressureMb" : 1016,
+        "relativeHumidity" : "86%",
+        "longitude" : -73.98159800000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 6.4,
+        "windDegrees" : 123,
+        "tempC" : 5.7,
+        "weather" : "Overcast",
+        "uv" : 0,
+        "dewpointC" : 3,
+        "visibilityKM" : 0.4
+      },
+      "date" : 411486520.294946,
+      "responses" : [
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Subway Station",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : 409286916.694865,
+              "longitude" : -122.2245416984947,
+              "latitude" : 37.46703975306546,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4c02dfdb0d0e0f47c9cb019a"
+          }
+        },
+        {
+          "questionPrompt" : "What are you eating?",
+          "tokens" : [
+            "Coffee",
+						"Granola Bar"
+          ]
+        },
+        {
+          "numericResponse" : "2",
+          "questionPrompt" : "How many coffees have you had?"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "textResponse" : "Commuting to the office and reading"
+        },
+        {
+          "questionPrompt" : "What tools are you using?",
+          "tokens" : [
+            "Subway",
+						"Instapaper"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.7,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : 411495474.590078,
+        "longitude" : -73.98647516041433,
+        "latitude" : 40.74062010742792,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "Madison Ave",
+          "postalCode" : "10010",
+          "subAdministrativeArea" : "New York",
+          "subLocality" : "Gramercy-Flatiron",
+          "subThoroughfare" : "1",
+          "region" : "<+40.74083304,-73.98693026> radius 87.38",
+          "locality" : "New York",
+          "name" : "1 Madison Ave",
+          "country" : "United States",
+          "administrativeArea" : "NY"
+        },
+        "horizontalAccuracy" : 200,
+        "speed" : 0
+      },
+      "steps" : -1,
+      "day" : 411458400,
+      "audio" : {
+        "avg" : -18.79152,
+        "peak" : -14.33347
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "meteringMode" : 5,
+            "brightnessValue" : 9.649305,
+            "focalLengthIn35mm" : 33,
+            "longitudeRef" : "W",
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "7.0.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=C6A01E61-6CF1-4867-8D78-CCC5D410058E&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0005720824,
+            "shutterSpeed" : 10.7717,
+            "depth" : 8,
+            "latitude" : 40.72874,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "longitude" : 74.00706,
+            "apertureValue" : 2.526069,
+            "latitudeRef" : "N",
+            "focalLength" : 4.12,
+            "altitude" : 7.934605,
+            "exposureProgram" : 2,
+            "model" : "iPhone 5",
+            "dateTime" : 411487889.254687,
+            "pixelWidth" : 3264,
+            "flash" : 0,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "meteringMode" : 5,
+            "brightnessValue" : 9.407257,
+            "focalLengthIn35mm" : 33,
+            "longitudeRef" : "W",
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "7.0.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=440F3506-52C3-4276-BB8D-DFB31B6AE999&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.001069519,
+            "shutterSpeed" : 9.868174,
+            "depth" : 8,
+            "latitude" : 40.72877,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "longitude" : 74.00708,
+            "apertureValue" : 2.526069,
+            "latitudeRef" : "N",
+            "focalLength" : 4.12,
+            "altitude" : 8.628544,
+            "exposureProgram" : 2,
+            "model" : "iPhone 5",
+            "dateTime" : 411487877.1451,
+            "pixelWidth" : 3264,
+            "flash" : 0,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ]
+      },
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 1,
+        "windDirection" : "ESE",
+        "tempF" : 45.1,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 8,
+        "feelslikeC" : 7,
+        "visibilityMi" : 0.2,
+        "feelslikeF" : 45,
+        "stationID" : "KNYNEWYO71",
+        "latitude" : 40.746399,
+        "windGustMPH" : 5,
+        "pressureIn" : 30.02,
+        "pressureMb" : 1016,
+        "relativeHumidity" : "75%",
+        "longitude" : -73.98159800000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.6,
+        "windDegrees" : 117,
+        "tempC" : 7.3,
+        "weather" : "Overcast",
+        "uv" : 1,
+        "dewpointC" : 3,
+        "visibilityKM" : 0.4
+      },
+      "date" : 411493465.320548,
+      "responses" : [
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Pret A Manger",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : 410115825.130469,
+              "longitude" : -73.98630578458533,
+              "latitude" : 40.74042874627558,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "51cdb757498e1874e972cf6d"
+          }
+        },
+        {
+          "questionPrompt" : "What are you eating?",
+          "tokens" : [
+            "Sandwich",
+						"Sparkling water"
+          ]
+        },
+        {
+          "numericResponse" : "0",
+          "questionPrompt" : "How many coffees have you had?"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "textResponse" : "Getting lunch"
+        }
+      ]
+    },
+    {
+      "battery" : 0.9,
+      "steps" : -1,
+      "day" : 411458400,
+      "audio" : {
+        "avg" : -25.91913,
+        "peak" : -19.88885
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "meteringMode" : 5,
+            "brightnessValue" : 8.74957,
+            "focalLengthIn35mm" : 33,
+            "longitudeRef" : "W",
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "7.0.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=A584DDB9-9E59-4A39-90A2-D7C79A41F95B&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.001402525,
+            "shutterSpeed" : 9.478298,
+            "depth" : 8,
+            "latitude" : 40.77774,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "longitude" : 73.86114,
+            "apertureValue" : 2.526069,
+            "latitudeRef" : "N",
+            "focalLength" : 4.12,
+            "altitude" : 4.944366,
+            "exposureProgram" : 2,
+            "model" : "iPhone 5",
+            "dateTime" : 411506253.183904,
+            "pixelWidth" : 3264,
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ]
+      },
+      "sync" : 0,
+      "connection" : 2,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "date" : 411510072.034536,
+      "responses" : [
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Airplane",
+            "location" : {
+              "verticalAccuracy" : 10,
+              "timestamp" : 410046096.614714,
+              "longitude" : -122.382574706484,
+              "latitude" : 37.61550010396145,
+              "course" : 0,
+              "horizontalAccuracy" : 98.03769521865146,
+              "speed" : -1
+            }
+          }
+        },
+        {
+          "questionPrompt" : "What are you eating?",
+          "tokens" : [
+            "Water",
+            "Bar"
+          ]
+        },
+        {
+          "numericResponse" : "0",
+          "questionPrompt" : "How many coffees have you had?"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "Yes"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "textResponse" : "Flying to Chicago"
+        },
+        {
+          "questionPrompt" : "What tools are you using?",
+          "tokens" : [
+            "Airplane"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.85,
+      "location" : {
+        "verticalAccuracy" : 3,
+        "timestamp" : 411513624.386014,
+        "longitude" : -87.91064794183514,
+        "latitude" : 41.97632800791597,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "Chicago O'Hare International Airport",
+          "postalCode" : "60666",
+          "subAdministrativeArea" : "Cook",
+          "subLocality" : "O'Hare",
+          "locality" : "Chicago",
+          "name" : "Chicago O'Hare International Airport",
+          "country" : "United States",
+          "administrativeArea" : "IL"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0
+      },
+      "steps" : -1,
+      "day" : 411458400,
+      "audio" : {
+        "avg" : -12.03943,
+        "peak" : 0
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 10.75291,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 33,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "7.0.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=4766ED16-E95E-419A-8898-FE347152FC1A&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0003320053,
+            "shutterSpeed" : 11.55653,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.12,
+            "model" : "iPhone 5",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : 411512674.535176,
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.83983,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 33,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "7.0.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=B3682E14-64C6-4478-9B02-37671A7DF6F8&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0002949852,
+            "shutterSpeed" : 11.727,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.12,
+            "model" : "iPhone 5",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : 411512679.903653,
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ]
+      },
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 1,
+        "windDirection" : "ESE",
+        "tempF" : 45.1,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 8,
+        "feelslikeC" : 7,
+        "visibilityMi" : 0.2,
+        "feelslikeF" : 45,
+        "stationID" : "KNYNEWYO71",
+        "latitude" : 40.746399,
+        "windGustMPH" : 5,
+        "pressureIn" : 30.02,
+        "pressureMb" : 1016,
+        "relativeHumidity" : "75%",
+        "longitude" : -73.98159800000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.6,
+        "windDegrees" : 117,
+        "tempC" : 7.3,
+        "weather" : "Overcast",
+        "uv" : 1,
+        "dewpointC" : 3,
+        "visibilityKM" : 0.4
+      },
+      "date" : 411513623.046134,
+      "responses" : [
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Chicago O'Hare International Airport (ORD)",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : 411513624.76738,
+              "longitude" : -87.90440082550049,
+              "latitude" : 41.97727092004163,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4a5a77a4f964a52062ba1fe3"
+          }
+        },
+        {
+          "numericResponse" : "0",
+          "questionPrompt" : "How many coffees have you had?"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "Yes"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "textResponse" : "Landed in Chicago"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "John Doe"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.75,
+      "location" : {
+        "verticalAccuracy" : 20.27313493271329,
+        "timestamp" : 411521217.696755,
+        "longitude" : -87.90479581128879,
+        "latitude" : 41.97563999039181,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "Chicago O'Hare International Airport",
+          "postalCode" : "60666",
+          "subAdministrativeArea" : "Cook",
+          "subLocality" : "O'Hare",
+          "locality" : "Chicago",
+          "name" : "Chicago O'Hare International Airport",
+          "country" : "United States",
+          "administrativeArea" : "IL"
+        },
+        "horizontalAccuracy" : 1120.174129269413,
+        "speed" : -1
+      },
+      "steps" : -1,
+      "day" : 411458400,
+      "audio" : {
+        "avg" : -32.00857,
+        "peak" : -21.14196
+      },
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 10,
+        "windDirection" : "SSW",
+        "tempF" : 17.8,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 29,
+        "feelslikeC" : -14,
+        "visibilityMi" : 10,
+        "feelslikeF" : 6,
+        "stationID" : "KILROSEM2",
+        "latitude" : 41.992989,
+        "windGustMPH" : 18,
+        "pressureIn" : 30.05,
+        "pressureMb" : 1017,
+        "relativeHumidity" : "73%",
+        "longitude" : -87.865173,
+        "precipTodayMetric" : 0,
+        "windKPH" : 16.1,
+        "windDegrees" : 206,
+        "tempC" : -7.9,
+        "weather" : "Partly Cloudy",
+        "uv" : 0,
+        "dewpointC" : -12,
+        "visibilityKM" : 16.1
+      },
+      "date" : 411521187.024945,
+      "responses" : [
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Chicago O'Hare International Airport (ORD)",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : 411513624.76738,
+              "longitude" : -87.90440082550049,
+              "latitude" : 41.97727092004163,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4a5a77a4f964a52062ba1fe3"
+          }
+        },
+        {
+          "questionPrompt" : "What are you eating?",
+          "tokens" : [
+            "Coffee",
+            "Salad",
+            "French fries"
+          ]
+        },
+        {
+          "numericResponse" : "1",
+          "questionPrompt" : "How many coffees have you had?"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "Yes"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "textResponse" : "Emailing and booking travel"
+        },
+        {
+          "questionPrompt" : "What tools are you using?",
+          "tokens" : [
+            "Gmail"
+          ]
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "John Doe"
+          ]
+        }
+      ]
+    }
+  ]
+}

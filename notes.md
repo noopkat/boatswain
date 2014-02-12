@@ -5,8 +5,12 @@
 + http://feltron.com/
 + http://www.reporter-app.com/
 + https://reporter.zendesk.com/hc/en-us
++ https://reporter.zendesk.com/hc/en-us/articles/200273009-How-DropBox-works-with-Reporter
 
-proposed model in lieu of Feltron model:
+Felton model:
++ 2014-01-15-reporter-export.json (in this repo)
+
+proposed barebones alternative model in lieu of Felton model:
 ```javascript
 {
   day~0: {
