@@ -15,7 +15,7 @@ proposed barebones alternative model in lieu of Felton model:
 {
   'day~0': {
     'date': '11-2-14',
-    'score': '1',
+    'score': 1,
     'tags': [0,1]
   },
   'tag~0': 'depression',
