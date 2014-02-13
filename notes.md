@@ -22,3 +22,6 @@ proposed barebones alternative model in lieu of Felton model:
   'tag~1': 'anxiety'
 }
 ```
+
+node cron for hitting dropbox api each day for report:
++ https://github.com/mattpat/node-schedule
